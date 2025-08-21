@@ -54,5 +54,12 @@
     "image_url": "https://imo10.labirint.ru/books/647346/cover.jpg/242-0",
     "text_url": "https://raw.githubusercontent.com/The-F-Project/kratkie/refs/heads/main/txt/granatovy_braslet.txt"
   },
+
+{
+    "id": "page_9",
+    "title": "В Прекрасном и Яросном Мире",
+    "image_url": "https://imo10.labirint.ru/books/647346/cover.jpg/242-0",
+    "text_url": "https://raw.githubusercontent.com/The-F-Project/kratkie/refs/heads/main/txt/v_prek_i_yar_mir.txt"
+  },
   
 ]
