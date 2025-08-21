@@ -24,14 +24,14 @@
     "id": "page_4",
     "title": "Светлана",
     "image_url": "https://imo10.labirint.ru/books/647346/cover.jpg/242-0",
-    "text_url": "https://raw.githubusercontent.com/The-F-Project/kratkie/refs/heads/main/txt/svetlana?token=GHSAT0AAAAAADJVHP5G6H7D4QD26MWVC6BE2FHMU2A"
+    "text_url": "https://raw.githubusercontent.com/The-F-Project/kratkie/refs/heads/main/txt/svetlana.txt"
   },
 
   {
     "id": "page_5",
     "title": "Евгений Онегин",
     "image_url": "https://imo10.labirint.ru/books/647346/cover.jpg/242-0",
-    "text_url": "https://raw.githubusercontent.com/The-F-Project/kratkie/refs/heads/main/txt/bednaya_shalav.txt"
+    "text_url": "https://raw.githubusercontent.com/The-F-Project/kratkie/refs/heads/main/txt/evgeniy_onegin.txt"
   },
   
 ]
