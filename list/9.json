@@ -75,5 +75,12 @@
     "image_url": "https://imo10.labirint.ru/books/647346/cover.jpg/242-0",
     "text_url": "https://raw.githubusercontent.com/The-F-Project/kratkie/refs/heads/main/txt/obida.txt"
   },
+
+{
+    "id": "page_12",
+    "title": "Пожар",
+    "image_url": "https://imo10.labirint.ru/books/647346/cover.jpg/242-0",
+    "text_url": "https://raw.githubusercontent.com/The-F-Project/kratkie/refs/heads/main/txt/pozhar.txt"
+  }
   
 ]
