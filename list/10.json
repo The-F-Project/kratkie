@@ -1,0 +1,16 @@
+[
+    {
+    "id": "page_1",
+    "title": "Недоросль",
+    "image_url": "https://imo10.labirint.ru/books/647346/cover.jpg/242-0",
+    "text_url": "https://raw.githubusercontent.com/FaliedDedd/EduCA-Global-Update/refs/heads/main/json/kratkie/texts/9/nedorosl.txt?token=GHSAT0AAAAAADJJXBAQZIAERP4JZJMIW6MW2FHJTFA"
+  },
+
+  {
+    "id": "page_2",
+    "title": "Ласточка",
+    "image_url": "https://imo10.labirint.ru/books/647346/cover.jpg/242-0",
+    "text_url": "https://raw.githubusercontent.com/FaliedDedd/EduCA-Global-Update/refs/heads/main/json/kratkie/texts/9/lastochka.txt?token=GHSAT0AAAAAADJJXBARRFGOBB22YZTFIMR62FHJXJA"
+  },
+  
+]
