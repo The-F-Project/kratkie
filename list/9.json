@@ -12,5 +12,12 @@
     "image_url": "https://imo10.labirint.ru/books/647346/cover.jpg/242-0",
     "text_url": "https://raw.githubusercontent.com/FaliedDedd/EduCA-Global-Update/refs/heads/main/json/kratkie/texts/9/lastochka.txt?token=GHSAT0AAAAAADJJXBARRFGOBB22YZTFIMR62FHJXJA"
   },
+
+  {
+    "id": "page_3",
+    "title": "Недоросль",
+    "image_url": "https://imo10.labirint.ru/books/647346/cover.jpg/242-0",
+    "text_url": "https://raw.githubusercontent.com/The-F-Project/kratkie/refs/heads/main/txt/bednaya_shalav?token=GHSAT0AAAAAADJVHP5GULGSOUTUUPNLXYFW2FHMNSQ"
+  },
   
 ]
