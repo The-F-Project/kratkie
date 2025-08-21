@@ -33,5 +33,12 @@
     "image_url": "https://imo10.labirint.ru/books/647346/cover.jpg/242-0",
     "text_url": "https://raw.githubusercontent.com/The-F-Project/kratkie/refs/heads/main/txt/evgeniy_onegin.txt"
   },
+
+  {
+    "id": "page_6",
+    "title": "Герой Нашего Времени",
+    "image_url": "https://imo10.labirint.ru/books/647346/cover.jpg/242-0",
+    "text_url": "https://raw.githubusercontent.com/The-F-Project/kratkie/refs/heads/main/txt/geroy.txt"
+  },
   
 ]
