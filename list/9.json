@@ -40,5 +40,12 @@
     "image_url": "https://imo10.labirint.ru/books/647346/cover.jpg/242-0",
     "text_url": "https://raw.githubusercontent.com/The-F-Project/kratkie/refs/heads/main/txt/geroy.txt"
   },
+
+{
+    "id": "page_7",
+    "title": "Шинель",
+    "image_url": "https://imo10.labirint.ru/books/647346/cover.jpg/242-0",
+    "text_url": "https://raw.githubusercontent.com/The-F-Project/kratkie/refs/heads/main/txt/shinel.txt"
+  },
   
 ]
