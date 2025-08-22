@@ -48,4 +48,53 @@
     "text_url": "https://raw.githubusercontent.com/The-F-Project/kratkie/refs/heads/main/txt/komu_zhit_hohrosho.txt"
   },
 
+{
+    "id": "page_8",
+    "title": "Преступление и Наказание",
+    "image_url": "https://s5-goods.ozstatic.by/2000/218/52/1/1052218_0.jpg",
+    "text_url": "https://raw.githubusercontent.com/The-F-Project/kratkie/refs/heads/main/txt/prestuplenie_i_nakozanie.txt"
+  },
+
+{
+    "id": "page_9",
+    "title": "Война и Мир",
+    "image_url": "https://tolstoy.ru/upload/creativity/fiction/detail/upload/iblock/72e/w-p.jpg",
+    "text_url": "https://raw.githubusercontent.com/The-F-Project/kratkie/refs/heads/main/txt/war_and_peace.txt"
+  },
+
+{
+    "id": "page_10",
+    "title": "Человек в футляре",
+    "image_url": "https://cdn.azbooka.ru/cv/w1100/2df75b79-867a-4e87-804c-c6c44fa731dd.jpg",
+    "text_url": "https://raw.githubusercontent.com/The-F-Project/kratkie/refs/heads/main/txt/chel_v_futlyare.txt"
+  },
+
+{
+    "id": "page_11",
+    "title": "Попрыгунья",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1349009158i/16054882.jpg",
+    "text_url": "https://raw.githubusercontent.com/The-F-Project/kratkie/refs/heads/main/txt/poprygunia.txt"
+  },
+
+{
+    "id": "page_12",
+    "title": "Дядя Ваня",
+    "image_url": "https://cdn.kobo.com/book-images/09bdb658-2f55-44b2-9858-744ded5aa350/1200/1200/False/8t39P2zQWDKEdyYbNAzY3A.jpg",
+    "text_url": "https://raw.githubusercontent.com/The-F-Project/kratkie/refs/heads/main/txt/dyadya_vanya.txt"
+  },
+
+{
+    "id": "page_13",
+    "title": "Вишневый Сад",
+    "image_url": "https://cdn.azbooka.ru/cv/w1100/b062367d-98a3-4214-adce-f851f84b2d5f.jpg",
+    "text_url": "https://raw.githubusercontent.com/The-F-Project/kratkie/refs/heads/main/txt/cherry_garden.txt"
+  },
+
+{
+    "id": "page_14",
+    "title": "Гобсек",
+    "image_url": "https://media.oki.by/img/catalog/178000/178929_626273.jpg",
+    "text_url": "https://raw.githubusercontent.com/The-F-Project/kratkie/refs/heads/main/txt/gobsek.txt"
+  }
+
 ]
