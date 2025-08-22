@@ -12,5 +12,40 @@
     "image_url": "https://imo10.labirint.ru/books/647346/cover.jpg/242-0",
     "text_url": "https://raw.githubusercontent.com/FaliedDedd/EduCA-Global-Update/refs/heads/main/json/kratkie/texts/9/lastochka.txt?token=GHSAT0AAAAAADJJXBARRFGOBB22YZTFIMR62FHJXJA"
   },
-  
+
+    {
+    "id": "page_3",
+    "title": "Мертвые Душы",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt-t1H8Q4byKL9mUB3zE5lWHWASfeDsjRZ8A&s",
+    "text_url": "https://raw.githubusercontent.com/The-F-Project/kratkie/refs/heads/main/txt/dead_souls.txt"
+  },
+
+{
+    "id": "page_4",
+    "title": "Гроза",
+    "image_url": "https://cdn.azbooka.ru/cv/w1100/09da80c1-be01-4c38-a507-ba2add1aca36.jpg",
+    "text_url": "https://raw.githubusercontent.com/The-F-Project/kratkie/refs/heads/main/txt/groza.txt"
+  },
+
+{
+    "id": "page_5",
+    "title": "Бесприданница",
+    "image_url": "https://azbyka.ru/fiction/wp-content/uploads/2020/06/9122a8bd-0ed4-5764-a966-1535f4762e32.jpg",
+    "text_url": "https://raw.githubusercontent.com/The-F-Project/kratkie/refs/heads/main/txt/besspredannitsa.txt"
+  },
+
+{
+    "id": "page_6",
+    "title": "Отцы и Дети",
+    "image_url": "https://cdn.azbooka.ru/cv/w1100/3a15cade-2970-4f17-b8e8-988c446217e1.jpg",
+    "text_url": "https://raw.githubusercontent.com/The-F-Project/kratkie/refs/heads/main/txt/fathers_and_kids.txt"
+  },
+
+{
+    "id": "page_7",
+    "title": "Кому на Руси жить хорошо",
+    "image_url": "https://akniga.org/uploads/media/topic/2024/11/30/09/preview/3ce4dd5a1c4fb89b0f60_252x350crop.jpg",
+    "text_url": "https://raw.githubusercontent.com/The-F-Project/kratkie/refs/heads/main/txt/komu_zhit_hohrosho.txt"
+  },
+
 ]
