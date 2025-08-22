@@ -16,35 +16,35 @@
   {
     "id": "page_3",
     "title": "Бедная Лиза",
-    "image_url": "https://imo10.labirint.ru/books/647346/cover.jpg/242-0",
+    "image_url": "https://rusneb.ru/local/tools/exalead/thumbnail.php?url=010000_000060_ART-dac49512-18e4-4213-89ac-a4eb78e3b912&width=360&height=460",
     "text_url": "https://raw.githubusercontent.com/The-F-Project/kratkie/refs/heads/main/txt/bednaya_shalav.txt"
   },
 
   {
     "id": "page_4",
     "title": "Светлана",
-    "image_url": "https://imo10.labirint.ru/books/647346/cover.jpg/242-0",
+    "image_url": "https://akniga.org/uploads/media/topic/2020/09/29/09/preview/2cb73f43d5846d75b0b4_252x350crop.jpg",
     "text_url": "https://raw.githubusercontent.com/The-F-Project/kratkie/refs/heads/main/txt/svetlana.txt"
   },
 
   {
     "id": "page_5",
     "title": "Евгений Онегин",
-    "image_url": "https://imo10.labirint.ru/books/647346/cover.jpg/242-0",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGj9vrCkT5RlqDAqEvykfRo3is5zHT5CDSMQ&s",
     "text_url": "https://raw.githubusercontent.com/The-F-Project/kratkie/refs/heads/main/txt/evgeniy_onegin.txt"
   },
 
   {
     "id": "page_6",
     "title": "Герой Нашего Времени",
-    "image_url": "https://imo10.labirint.ru/books/647346/cover.jpg/242-0",
+    "image_url": "https://cdn.azbooka.ru/cv/w1100/5061fd29-00b3-4776-b247-35382c535628.jpg",
     "text_url": "https://raw.githubusercontent.com/The-F-Project/kratkie/refs/heads/main/txt/geroy.txt"
   },
 
 {
     "id": "page_7",
     "title": "Шинель",
-    "image_url": "https://imo10.labirint.ru/books/647346/cover.jpg/242-0",
+    "image_url": "https://imo10.labirint.ru/books/627597/cover.jpg/242-0",
     "text_url": "https://raw.githubusercontent.com/The-F-Project/kratkie/refs/heads/main/txt/shinel.txt"
   },
 
@@ -58,28 +58,28 @@
 {
     "id": "page_9",
     "title": "В Прекрасном и Яросном Мире",
-    "image_url": "https://imo10.labirint.ru/books/647346/cover.jpg/242-0",
+    "image_url": "https://basket-12.wbbasket.ru/vol1818/part181883/181883598/images/big/1.webp",
     "text_url": "https://raw.githubusercontent.com/The-F-Project/kratkie/refs/heads/main/txt/v_prek_i_yar_mir.txt"
   },
 
     {
     "id": "page_10",
     "title": "А зори здесь тихие...",
-    "image_url": "https://imo10.labirint.ru/books/647346/cover.jpg/242-0",
+    "image_url": "https://ir-3.ozone.ru/s3/multimedia-v/c1000/6007701655.jpg",
     "text_url": "https://raw.githubusercontent.com/The-F-Project/kratkie/refs/heads/main/txt/zori_tihie.txt"
   },
 
 {
     "id": "page_11",
     "title": "Обида",
-    "image_url": "https://imo10.labirint.ru/books/647346/cover.jpg/242-0",
+    "image_url": "https://nukadeti.ru/content/images/essence/tale/8936/9777.jpg",
     "text_url": "https://raw.githubusercontent.com/The-F-Project/kratkie/refs/heads/main/txt/obida.txt"
   },
 
 {
     "id": "page_12",
     "title": "Пожар",
-    "image_url": "https://imo10.labirint.ru/books/647346/cover.jpg/242-0",
+    "image_url": "https://s1.livelib.ru/boocover/1002160559/200/6185/boocover.jpg",
     "text_url": "https://raw.githubusercontent.com/The-F-Project/kratkie/refs/heads/main/txt/pozhar.txt"
   }
   
