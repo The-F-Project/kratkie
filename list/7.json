@@ -1,2 +1,86 @@
 [
+  {
+    "id": "page_1",
+    "title": "Капитанская Дочка",
+    "image_url": "https://bookhouse.kg/media/galleryphoto/2023/4/ec9b2261-41f0-4f6f-b306-44dea6cc1868.jpg.600x780_q94.jpg",
+    "text_url": "https://raw.githubusercontent.com/The-F-Project/kratkie/refs/heads/main/txt/captain_doch.txt"
+  },
+
+{
+    "id": "page_2",
+    "title": "Мцыри",
+    "image_url": "https://imo10.labirint.ru/books/788796/cover.jpg/242-0",
+    "text_url": "https://raw.githubusercontent.com/The-F-Project/kratkie/refs/heads/main/txt/mciri.txt"
+  },
+
+
+{
+    "id": "page_3",
+    "title": "Ревизор",
+    "image_url": "https://api.polka.academy/storage/post/bookmate/30/picture-e467acc1996fe5fab77585d1b67f5d82.jpg",
+    "text_url": "https://raw.githubusercontent.com/The-F-Project/kratkie/refs/heads/main/txt/revizor.txt"
+  },
+
+{
+    "id": "page_4",
+    "title": "Повесть о том, как один мужик двух генералов прокормил",
+    "image_url": "https://www.kino-teatr.ru/movie/posters/big/1/7/96971.jpg",
+    "text_url": "https://raw.githubusercontent.com/The-F-Project/kratkie/refs/heads/main/txt/myzshik_2_generala.txt"
+  },
+
+{
+    "id": "page_5",
+    "title": "После бала",
+    "image_url": "https://ir-3.ozone.ru/s3/multimedia-v/c1000/6063577831.jpg",
+    "text_url": "https://raw.githubusercontent.com/The-F-Project/kratkie/refs/heads/main/txt/posle_bala.txt"
+  },
+
+{
+    "id": "page_6",
+    "title": "Песня о Соколе",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWlYqQFncyj4j0ISxEtY9sIexyD4IJ7nrFXQ&s",
+    "text_url": "https://raw.githubusercontent.com/The-F-Project/kratkie/refs/heads/main/txt/song_sokol.txt"
+  },
+
+{
+    "id": "page_7",
+    "title": "Алые Паруса",
+    "image_url": "https://nukadeti.ru/content/images/static/tale400x400/6299_93.jpg",
+    "text_url": "https://github.com/The-F-Project/kratkie/blob/main/txt/alye_parysa.txt"
+  },
+
+{
+    "id": "page_8",
+    "title": "Василий Тёркин",
+    "image_url": "https://ir-3.ozone.ru/s3/multimedia-l/c1000/6446885877.jpg",
+    "text_url": "https://raw.githubusercontent.com/The-F-Project/kratkie/refs/heads/main/txt/vasily_terkin.txt"
+  },
+
+{
+    "id": "page_9",
+    "title": "Телеграмма",
+    "image_url": "https://azbyka.ru/fiction/wp-content/uploads/2020/11/p1.png",
+    "text_url": "https://raw.githubusercontent.com/The-F-Project/kratkie/refs/heads/main/txt/telegramma.txt"
+  },
+
+{
+    "id": "page_10",
+    "title": "А тем временем где-то...",
+    "image_url": "https://s2-goods.ozstatic.by/2000/912/1/101/101001912_0.jpg",
+    "text_url": "https://raw.githubusercontent.com/The-F-Project/kratkie/refs/heads/main/txt/a_tem_vremenem.txt"
+  },
+
+{
+    "id": "page_11",
+    "title": "Маленький принц",
+    "image_url": "https://biblio.by/media/catalog/product/cache/1/image/1200x1200/85e4522595efc69f496374d01ef2bf13/9/7/9785699943265--.jpg",
+    "text_url": "https://raw.githubusercontent.com/The-F-Project/kratkie/refs/heads/main/txt/small_prince.txt"
+  },
+
+{
+    "id": "page_12",
+    "title": "Каникулы",
+    "image_url": "https://nukadeti.ru/content/images/essence/tale/10966/12368.jpg",
+    "text_url": "https://raw.githubusercontent.com/The-F-Project/kratkie/refs/heads/main/txt/holidays.txt"
+  }
 ]
