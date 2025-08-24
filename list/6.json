@@ -1,0 +1,78 @@
+[
+{
+    "id": "page_1",
+    "title": "Песнь о вещем Олеге",
+    "image_url": "https://nukadeti.ru/content/images/essence/tale/1914/6847.jpg",
+    "text_url": "https://raw.githubusercontent.com/The-F-Project/kratkie/refs/heads/main/txt/oleg.txt"
+  },
+
+  {
+    "id": "page_2",
+    "title": "Бежин Луг",
+    "image_url": "https://cdn1.ozone.ru/multimedia/c600/1001710006.jpg",
+    "text_url": "https://raw.githubusercontent.com/The-F-Project/kratkie/refs/heads/main/txt/bezhin_lug.txt"
+  },
+
+  {
+    "id": "page_3",
+    "title": "Тапер",
+    "image_url": "https://all-the-books.ru/upload/resize_cache/iblock/7f6/500_703_1e9b8336d01043882fbc6052ef3deaeaa/tapyer.jpg",
+    "text_url": "https://raw.githubusercontent.com/The-F-Project/kratkie/refs/heads/main/txt/taper.txt"
+  },
+
+{
+    "id": "page_4",
+    "title": "Уроки Французского",
+    "image_url": "https://nukadeti.ru/content/images/static/tale300x300_or/7745_7961.jpg",
+    "text_url": "https://raw.githubusercontent.com/The-F-Project/kratkie/refs/heads/main/txt/speak_english_motherfucker.txt"
+  },
+
+{
+    "id": "page_5",
+    "title": "Дубровский",
+    "image_url": "https://cdn.azbooka.ru/cv/w1100/dd29233e-f2dc-4259-99ba-adf55d1b6022.jpg",
+    "text_url": "https://raw.githubusercontent.com/The-F-Project/kratkie/refs/heads/main/txt/dubrovskii.txt"
+  },
+
+{
+    "id": "page_6",
+    "title": "Станционный Смотритель",
+    "image_url": "https://nebdeti.ru/server/api/core/bitstreams/6009a318-f0a8-4542-8ed4-fa5bd878958c/content",
+    "text_url": "https://raw.githubusercontent.com/The-F-Project/kratkie/refs/heads/main/txt/station.txt"
+  },
+
+{
+    "id": "page_7",
+    "title": "Ночь Перед Рождеством",
+    "image_url": "https://imo10.labirint.ru/books/706318/cover.jpg/242-0",
+    "text_url": "https://raw.githubusercontent.com/The-F-Project/kratkie/refs/heads/main/txt/merry_christmas.txt"
+  },
+
+{
+    "id": "page_8",
+    "title": "Детство(Толстой)",
+    "image_url": "https://cdn1.ozone.ru/s3/multimedia-r/c600/6629110875.jpg",
+    "text_url": "https://raw.githubusercontent.com/The-F-Project/kratkie/refs/heads/main/txt/detstvo.txt"
+  },
+
+{
+    "id": "page_9",
+    "title": "Детство(Горький)",
+    "image_url": "https://s3-goods.ozstatic.by/1000/375/294/101/101294375_0.jpg",
+    "text_url": "https://raw.githubusercontent.com/The-F-Project/kratkie/refs/heads/main/txt/deathstvo.txt"
+  },
+
+{
+    "id": "page_10",
+    "title": "Иван",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRC5ISRqmJ21D61ewEXiaURGi5y11-AI-mdUw&s",
+    "text_url": "https://raw.githubusercontent.com/The-F-Project/kratkie/refs/heads/main/txt/ivan.txt"
+  },
+
+{
+    "id": "page_11",
+    "title": "На Берегах Сакраменто",
+    "image_url": "https://libcat.ru/books/195700/dzhek-london-na-beregah-sakramento-cover.webp",
+    "text_url": "https://raw.githubusercontent.com/The-F-Project/kratkie/refs/heads/main/txt/sacramento.txt"
+  }
+]
