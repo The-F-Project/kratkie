@@ -1,0 +1,99 @@
+[
+  {
+    "id": "page_1",
+    "title": "Царевна-лягушка",
+    "image_url": "https://obrazovaka.ru/wp-content/uploads/2021/10/carevna-lyagushka-kratkoe-soderganie.jpg",
+    "text_url": "https://raw.githubusercontent.com/The-F-Project/kratkie/refs/heads/main/txt/carevna_lyaguha.txt"
+  },
+  
+  {
+    "id": "page_2",
+    "title": "Сказка о мёртвой царевне и семи богатырях",
+    "image_url": "https://briefly.ru/static/cache/authors/480/pushkin.jpeg",
+    "text_url": "https://raw.githubusercontent.com/The-F-Project/kratkie/refs/heads/main/txt/dead_carevna.txt"
+  },
+
+{
+    "id": "page_3",
+    "title": "Снежная королева",
+    "image_url": "https://skazkiwsem.fun/wp-content/uploads/2012/10/1-9.jpg",
+    "text_url": "https://raw.githubusercontent.com/The-F-Project/kratkie/refs/heads/main/txt/coroleva.txt"
+  },
+
+{
+    "id": "page_4",
+    "title": "Двенадцать месяцев",
+    "image_url": "https://nukadeti.ru/content/images/static/tale300x300/1875_150.jpg",
+    "text_url": "https://github.com/The-F-Project/kratkie/blob/main/txt/dvenad_mes.txt"
+  },
+
+{
+    "id": "page_5",
+    "title": "Крестьянские дети",
+    "image_url": "https://www.prostudenta.ru/wp-content/auploads/965487/fullsize.jpg",
+    "text_url": "https://github.com/The-F-Project/kratkie/blob/main/txt/krest_deti.txt"
+  },
+
+{
+    "id": "page_6",
+    "title": "Дети подземелья",
+    "image_url": "https://www.prostudenta.ru/wp-content/auploads/955189/fullsize.jpg",
+    "text_url": "https://raw.githubusercontent.com/The-F-Project/kratkie/refs/heads/main/txt/deti_podzem.txt"
+  },
+
+{
+    "id": "page_7",
+    "title": "Мальчики",
+    "image_url": "https://dnevnik.frigato.ru/uploads/posts/2018-06/thumbs/1529600163_sohranennoe-izobrazhenie-2018-6-21_23-55-29.140.jpg",
+    "text_url": "https://raw.githubusercontent.com/The-F-Project/kratkie/refs/heads/main/txt/boys.txt"
+  },
+
+{
+    "id": "page_8",
+    "title": "Скворцы",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpcaCffSl175OzQwmSFm_WywJL-r9ZUh-cfA&s",
+    "text_url": "https://github.com/The-F-Project/kratkie/blob/main/txt/solo_way.txt"
+  },
+
+{
+    "id": "page_9",
+    "title": "Кладовая Солнца",
+    "image_url": "https://nukadeti.ru/content/images/static/tale300x300_or/997_163.jpg",
+    "text_url": "https://raw.githubusercontent.com/The-F-Project/kratkie/refs/heads/main/txt/sun.txt"
+  },
+
+{
+    "id": "page_10",
+    "title": "Мещёрская сторона",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5_fUOoMdIJlQVQeTe-J6camyYe1LqrGfC2w&s",
+    "text_url": "https://raw.githubusercontent.com/The-F-Project/kratkie/refs/heads/main/txt/storona.txt"
+  },
+
+{
+    "id": "page_11",
+    "title": "Бородино",
+    "image_url": "https://obrazovaka.ru/wp-content/uploads/2021/09/borodino-kratkoe-soderganie.jpg",
+    "text_url": "https://raw.githubusercontent.com/The-F-Project/kratkie/refs/heads/main/txt/borodino.txt"
+  },
+
+{
+    "id": "page_12",
+    "title": "Муму",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6XWz5O1gkhdi5z_Wzp0kEtiKwU7XoAyj9uw&s",
+    "text_url": "https://raw.githubusercontent.com/The-F-Project/kratkie/refs/heads/main/txt/mumu.txt"
+  },
+
+{
+    "id": "page_13",
+    "title": "Кавказский пленник",
+    "image_url": "https://nukadeti.ru/content/images/static/tale300x300_or/6957_3338.jpg",
+    "text_url": "https://raw.githubusercontent.com/The-F-Project/kratkie/refs/heads/main/txt/kaukaz_sila.txt"
+  },
+
+{
+    "id": "page_14",
+    "title": "Джин в корабле",
+    "image_url": "https://news.store.rambler.ru/img/916d57a0f2f762b5a2bbb67c6198e84d?img-1-resize=width%3A1280%2Cheight%3A960%2Cfit%3Acover&img-format=auto",
+    "text_url": "https://raw.githubusercontent.com/The-F-Project/kratkie/refs/heads/main/txt/gene.txt"
+  }
+]
