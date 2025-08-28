@@ -1,0 +1,72 @@
+[
+{
+    "id": "page_1",
+    "title": "На дне",
+    "image_url": "https://cdn.azbooka.ru/cv/w1100/da16e636-8514-4098-a975-68d2fd2be2f0.jpg",
+    "text_url": "https://raw.githubusercontent.com/The-F-Project/kratkie/refs/heads/main/txt/na_dne.txt"
+  },
+
+{
+    "id": "page_2",
+    "title": "Двенадцать",
+    "image_url": "https://cdn.azbooka.ru/cv/w1100/6e0d4373-073d-4316-9ca0-a362e835b8ff.jpg",
+    "text_url": "https://raw.githubusercontent.com/The-F-Project/kratkie/refs/heads/main/txt/12.txt"
+  },
+
+{
+    "id": "page_3",
+    "title": "Собачье сердце",
+    "image_url": "https://klin-demianovo.ru/wp-content/uploads/2016/07/858a2ea6e5e70d61b35a197e522f098b.jpg",
+    "text_url": "https://raw.githubusercontent.com/The-F-Project/kratkie/refs/heads/main/txt/dog_heart.txt"
+  },
+
+{
+    "id": "page_4",
+    "title": "Мастер и Маргарита",
+    "image_url": "https://static.insales-cdn.com/images/products/1/5600/878073312/9785002117888.jpg",
+    "text_url": "https://raw.githubusercontent.com/The-F-Project/kratkie/refs/heads/main/txt/dungeon_master.txt"
+  },
+
+{
+    "id": "page_5",
+    "title": "На заре туманной юности",
+    "image_url": "https://www.syl.ru/misc/i/ai/365197/2191505.jpg",
+    "text_url": "https://raw.githubusercontent.com/The-F-Project/kratkie/refs/heads/main/txt/zarya.txt"
+  },
+
+{
+    "id": "page_6",
+    "title": "Фро",
+    "image_url": "https://all-the-books.ru/upload/resize_cache/iblock/7f9/450_728_1e9b8336d01043882fbc6052ef3deaeaa/fro.jpg",
+    "text_url": "https://raw.githubusercontent.com/The-F-Project/kratkie/refs/heads/main/txt/fro.txt"
+  },
+
+{
+    "id": "page_7",
+    "title": "Реквием",
+    "image_url": "https://s3-goods.ozstatic.by/1000/974/193/101/101193974_0.jpg",
+    "text_url": "https://raw.githubusercontent.com/The-F-Project/kratkie/refs/heads/main/txt/requem.txt"
+  },
+
+{
+    "id": "page_8",
+    "title": "Тихий Дон",
+    "image_url": "https://s1-goods.ozstatic.by/2000/230/330/101/101330230_0.jpg",
+    "text_url": "https://raw.githubusercontent.com/The-F-Project/kratkie/refs/heads/main/txt/tihiy_don.txt"
+  },
+
+{
+    "id": "page_9",
+    "title": "Поднятая целина",
+    "image_url": "https://igromaster.by/upload/iblock/c5f/c5f193294b81bd20a6e0676df36e5d56.webp?1582550410",
+    "text_url": "https://raw.githubusercontent.com/The-F-Project/kratkie/refs/heads/main/txt/ctlina.txt"
+  },
+
+{
+    "id": "page_10",
+    "title": "???",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0HbLtc_ZW-C_qxKre9fRQD_WCUylebl1M8w&s",
+    "text_url": "https://raw.githubusercontent.com/The-F-Project/kratkie/refs/heads/main/txt/_fight_club.txt"
+  }
+
+]
