@@ -1,0 +1,37 @@
+[
+
+{
+    "id": "page_1",
+    "title": "Цітаўкі",
+    "image_url": "https://knigogid.ru/books/521882-ctak/poster",
+    "text_url": "https://raw.githubusercontent.com/The-F-Project/kratkie/refs/heads/main/txt/citayki.txt"
+  },
+
+{
+    "id": "page_2",
+    "title": "Страта",
+    "image_url": "https://briefly.ru/static/cache/authors/480/dalidovich.jpeg",
+    "text_url": "https://raw.githubusercontent.com/The-F-Project/kratkie/refs/heads/main/txt/strata.txt"
+  },
+
+{
+    "id": "page_3",
+    "title": "Добры хлопец Дзік",
+    "image_url": "https://libcat.ru/books/57239/maks%D0%86m-luzhan%D0%86n-dobry-hlopec-dz%D0%86k-cover.webp",
+    "text_url": "https://raw.githubusercontent.com/The-F-Project/kratkie/refs/heads/main/txt/dick.txt"
+  },
+
+{
+    "id": "page_4",
+    "title": "Былі ў мяне мядзведзi",
+    "image_url": "https://i.ytimg.com/vi/_kAHC3BAYWY/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBtRxZSGpLcWrPNC4dY6tLBNJdNeA",
+    "text_url": "https://raw.githubusercontent.com/The-F-Project/kratkie/refs/heads/main/txt/medvedi.txt"
+  },
+
+{
+    "id": "page_5",
+    "title": "Пра смелага ваяку Мішку і яго слаўных таварышаў",
+    "image_url": "https://tn.by/wp-content/uploads/2023/08/miska1.jpg",
+    "text_url": "https://raw.githubusercontent.com/The-F-Project/kratkie/refs/heads/main/txt/kenti_medvedya.txt"
+  }
+]
