@@ -3,14 +3,14 @@
     "id": "page_1",
     "title": "Недоросль",
     "image_url": "https://imo10.labirint.ru/books/647346/cover.jpg/242-0",
-    "text_url": "https://raw.githubusercontent.com/FaliedDedd/EduCA-Global-Update/refs/heads/main/json/kratkie/texts/9/nedorosl.txt?token=GHSAT0AAAAAADJJXBAQZIAERP4JZJMIW6MW2FHJTFA"
+    "text_url": "https://raw.githubusercontent.com/The-F-Project/kratkie/refs/heads/main/txt/nedorosl.txt"
   },
 
   {
     "id": "page_2",
     "title": "Ласточка",
-    "image_url": "https://imo10.labirint.ru/books/647346/cover.jpg/242-0",
-    "text_url": "https://raw.githubusercontent.com/FaliedDedd/EduCA-Global-Update/refs/heads/main/json/kratkie/texts/9/lastochka.txt?token=GHSAT0AAAAAADJJXBARRFGOBB22YZTFIMR62FHJXJA"
+    "image_url": "https://litrika.ru/wp-content/uploads/2020/10/gavriil-derzhavin-lastochka-title-400x445.jpg",
+    "text_url": "https://raw.githubusercontent.com/The-F-Project/kratkie/refs/heads/main/txt/nedorol.txt"
   },
 
   {
@@ -81,6 +81,13 @@
     "title": "Пожар",
     "image_url": "https://s1.livelib.ru/boocover/1002160559/200/6185/boocover.jpg",
     "text_url": "https://raw.githubusercontent.com/The-F-Project/kratkie/refs/heads/main/txt/pozhar.txt"
+  },
+
+{
+    "id": "page_13",
+    "title": "Двухсотлетний человек",
+    "image_url": "https://s5.knigavuhe.org/1/covers/36781/1-2.jpg?1",
+    "text_url": "https://raw.githubusercontent.com/The-F-Project/kratkie/refs/heads/main/txt/200.txt"
   }
   
 ]
