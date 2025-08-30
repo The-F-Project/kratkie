@@ -1,0 +1,57 @@
+[
+{
+    "id": "page_1",
+    "title": "Дзяльба кабанчыкa",
+    "image_url": "https://lh4.googleusercontent.com/proxy/bnyqxzvnjrEP_L3Y5xJLBCw9Qxh9ZHrMN4rME_4PEdu39r5NIci4SiILLAQAAOy9LzuLpnBvc7BjPbsRezeJX9SurHBwjPM",
+    "text_url": "https://raw.githubusercontent.com/The-F-Project/kratkie/refs/heads/main/txt/salo.txt"
+  },
+
+{
+    "id": "page_2",
+    "title": "Вечар",
+    "image_url": "https://bezkassira.by/img/organise/2264/medium/40917_0_96085-1683189757.webp",
+    "text_url": "https://raw.githubusercontent.com/The-F-Project/kratkie/refs/heads/main/txt/evening.txt"
+  },
+
+{
+    "id": "page_3",
+    "title": "Хмарка",
+    "image_url": "https://i.pinimg.com/564x/02/b7/01/02b7016a79390638caeec8f95741e2b8.jpg",
+    "text_url": "https://raw.githubusercontent.com/The-F-Project/kratkie/refs/heads/main/txt/hmara.txt"
+  },
+
+{
+    "id": "page_4",
+    "title": "Паром на бурнай рацэ",
+    "image_url": "https://briefly.ru/static/cache/illustrations_ai/720/4951.jpeg",
+    "text_url": "https://raw.githubusercontent.com/The-F-Project/kratkie/refs/heads/main/txt/parom.txt"
+  },
+
+{
+    "id": "page_5",
+    "title": "Губаты",
+    "image_url": "https://i.ytimg.com/vi/CFwFFX3iQoo/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGF8gZShDMA8=&rs=AOn4CLA6MZuWxAgkA_UVbQ9gq223nI0Lkg",
+    "text_url": "https://raw.githubusercontent.com/The-F-Project/kratkie/refs/heads/main/txt/gybati.txt"
+  },
+  
+{
+    "id": "page_6",
+    "title": "Жураўліны крык ",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIX5_x1GJy_WoIa4mLuticN0n3AIMSfYYrnw&s",
+    "text_url": "https://raw.githubusercontent.com/The-F-Project/kratkie/refs/heads/main/txt/gyravlini_krik.txt"
+  },
+
+{
+    "id": "page_7",
+    "title": "Магіла львa",
+    "image_url": "https://resizer.mail.ru/p/3d8a834d-ee38-56e5-951d-c3d251005ae0/AQAKfV-mEIHv0ztWT1hebqD8WQrtV467_ZnAYmZoScXOFZybtwkBIuowBMVqXFXKdAbimwbrzW_floVfrSZRaFaN1I0.jpg",
+    "text_url": "https://raw.githubusercontent.com/The-F-Project/kratkie/refs/heads/main/txt/ai_tigr_ai_lev.txt"
+  },
+
+{
+    "id": "page_8",
+    "title": "Паўлінка",
+    "image_url": "https://upload.wikimedia.org/wikipedia/be/9/95/%D0%9F%D0%B0%D1%9E%D0%BB%D1%96%D0%BD%D0%BA%D0%B0_%28%D0%B0%D1%84%D1%96%D1%88%D0%B0%29.jpg",
+    "text_url": "https://raw.githubusercontent.com/The-F-Project/kratkie/refs/heads/main/txt/pavlinka.txt"
+  }
+]
