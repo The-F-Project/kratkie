@@ -1,0 +1,64 @@
+[
+{
+    "id": "page_1",
+    "title": "Курган",
+    "image_url": "https://s1.livelib.ru/boocover/1002238635/200x305/ab91/boocover.jpg",
+    "text_url": "https://raw.githubusercontent.com/The-F-Project/kratkie/refs/heads/main/txt/kurgan.txt"
+  },
+
+  {
+    "id": "page_2",
+    "title": "Незагойная рана",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8zJqiqd3-NHIzUu9tzS5QrNBkorl4nKhYag&s",
+    "text_url": "https://raw.githubusercontent.com/The-F-Project/kratkie/refs/heads/main/txt/rana.txt"
+  },
+
+  {
+    "id": "page_3",
+    "title": "Дзядзька-кухар",
+    "image_url": "https://s5-goods.ozstatic.by/2000/59/8/101/101008059_0.jpg",
+    "text_url": "https://raw.githubusercontent.com/The-F-Project/kratkie/refs/heads/main/txt/dyadya_kolas.txt"
+  },
+
+  {
+    "id": "page_4",
+    "title": "На Каляды к сыну",
+    "image_url": "https://coollib.net/i/32/368732/cover.png",
+    "text_url": "https://raw.githubusercontent.com/The-F-Project/kratkie/refs/heads/main/txt/kalyadi_son.txt"
+  },
+
+{
+    "id": "page_5",
+    "title": "Настаўнік чарчэння",
+    "image_url": "https://i.ytimg.com/vi/0FUmRxZwsBg/maxresdefault.jpg",
+    "text_url": "https://raw.githubusercontent.com/The-F-Project/kratkie/refs/heads/main/txt/circul.txt"
+  },
+
+  {
+    "id": "page_6",
+    "title": "Урокі пані Мар’і",
+    "image_url": "https://briefly.ru/static/cache/illustrations_ai/720/4958.jpeg",
+    "text_url": "https://raw.githubusercontent.com/The-F-Project/kratkie/refs/heads/main/txt/marya.txt"
+  },
+
+  {
+    "id": "page_7",
+    "title": "Лісцік серабрыстай таполi",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Populier_Populus_canadensis.jpg",
+    "text_url": "https://raw.githubusercontent.com/The-F-Project/kratkie/refs/heads/main/txt/tapol.txt"
+  },
+
+  {
+    "id": "page_8",
+    "title": "Мэры Кэт",
+    "image_url": "https://briefly.ru/static/cache/illustrations_ai/720/4997.jpeg",
+    "text_url": "https://raw.githubusercontent.com/The-F-Project/kratkie/refs/heads/main/txt/mary_cat.txt"
+  },
+
+  {
+    "id": "page_9",
+    "title": "Меч князя Вячкі",
+    "image_url": "https://briefly.ru/static/cache/illustrations_ai/720/5000.jpeg",
+    "text_url": "https://raw.githubusercontent.com/The-F-Project/kratkie/refs/heads/main/txt/sword.txt"
+  }
+]
