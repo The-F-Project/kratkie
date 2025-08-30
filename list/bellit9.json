@@ -1,0 +1,78 @@
+[
+{
+    "id": "page_1",
+    "title": "Песня про зубра",
+    "image_url": "https://planetabelarus.by/upload/medialibrary/59d/gepgeas0atbq8tx5fhzf9k15vqg020b4.jpg",
+    "text_url": "https://raw.githubusercontent.com/The-F-Project/kratkie/refs/heads/main/txt/zubr.txt"
+  },
+
+{
+    "id": "page_2",
+    "title": "Шляхцiц Завальня",
+    "image_url": "https://libcat.ru/books/730379/yan-barshche%D0%8Esk%D0%86-shlyahc%D0%86c-zavalnya-abo-belarus-u-fan.webp",
+    "text_url": "https://raw.githubusercontent.com/The-F-Project/kratkie/refs/heads/main/txt/zavalne.txt"
+  },
+
+{
+    "id": "page_3",
+    "title": "Тарас На Парнасе",
+    "image_url": "https://avatars.mds.yandex.net/get-altay/4335161/2a000001772e19a0d5775e8fa6f31bfa9c43/L_height",
+    "text_url": "https://raw.githubusercontent.com/The-F-Project/kratkie/refs/heads/main/txt/taras.txt"
+  },
+
+{
+    "id": "page_4",
+    "title": "Пинская Шляхта",
+    "image_url": "https://s1.livelib.ru/boocover/1000330091/200x305/051a/boocover.jpg",
+    "text_url": "https://raw.githubusercontent.com/The-F-Project/kratkie/refs/heads/main/txt/pinsk.txt"
+  },
+
+{
+    "id": "page_5",
+    "title": "Бондаровна",
+    "image_url": "https://briefly.ru/static/cache/illustrations_ai/720/4883.jpeg",
+    "text_url": "https://raw.githubusercontent.com/The-F-Project/kratkie/refs/heads/main/txt/bond.txt"
+  },
+
+{
+    "id": "page_6",
+    "title": "Новая Зямля",
+    "image_url": "https://knihi.by/images/products/2214.png",
+    "text_url": "https://raw.githubusercontent.com/The-F-Project/kratkie/refs/heads/main/txt/zemlya.txt"
+  },
+
+{
+    "id": "page_7",
+    "title": "Роднае Карэнне",
+    "image_url": "https://s1.livelib.ru/boocover/1002978384/200/f672/boocover.jpg",
+    "text_url": "https://raw.githubusercontent.com/The-F-Project/kratkie/refs/heads/main/txt/carenne.txt"
+  },
+
+{
+    "id": "page_8",
+    "title": "На пыльнай дарозе",
+    "image_url": "https://briefly.ru/static/cache/illustrations_ai/720/4955.jpeg",
+    "text_url": "https://raw.githubusercontent.com/The-F-Project/kratkie/refs/heads/main/txt/daroga.txt"
+  },
+
+{
+    "id": "page_9",
+    "title": "Неповторимая весна",
+    "image_url": "https://s1.livelib.ru/boocover/1001617902/200/ab2d/boocover.jpg",
+    "text_url": "https://raw.githubusercontent.com/The-F-Project/kratkie/refs/heads/main/txt/spring.txt"
+  },
+
+{
+    "id": "page_10",
+    "title": "Momento Mori",
+    "image_url": "https://files.library.by/images/files/1588688832.jpg",
+    "text_url": "https://raw.githubusercontent.com/The-F-Project/kratkie/refs/heads/main/txt/momento_mori.txt"
+  },
+
+{
+    "id": "page_11",
+    "title": "Дикая Охота короля Стаха",
+    "image_url": "https://www.akademkniga-books.by/upload/iblock/ae3/r19dbx5dbibldbantmfnasv4agdssu3f.jpg",
+    "text_url": "https://raw.githubusercontent.com/The-F-Project/kratkie/refs/heads/main/txt/stah_trah.txt"
+  }
+]
