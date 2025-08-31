@@ -1,0 +1,70 @@
+[
+{
+    "id": "page_1",
+    "title": "Сэрца на далонi",
+    "image_url": "https://profil.adu.by/pluginfile.php/4753/mod_book/chapter/13291/%D0%A1%D1%82%D1%8021.jpg?time=1624280684336",
+    "text_url": "https://raw.githubusercontent.com/The-F-Project/kratkie/refs/heads/main/txt/dalon.txt"
+  },
+{
+    "id": "page_"2,
+    "title": "Зацюканы апостал",
+    "image_url": "https://www.sb.by/upload/iblock/478/478c1822dd8f756ac6438a03810af3bd.jpg",
+    "text_url": "https://raw.githubusercontent.com/The-F-Project/kratkie/refs/heads/main/txt/apostol.txt"
+  },
+
+{
+    "id": "page_3",
+    "title": "Знак бяды",
+    "image_url": "https://raw.githubusercontent.com/The-F-Project/kratkie/refs/heads/main/txt/znak.txt",
+    "text_url": "https://upload.wikimedia.org/wikipedia/be/f/f1/%D0%97%D0%BD%D0%B0%D0%BA_%D0%B1%D1%8F%D0%B4%D1%8B.jpg"
+  },
+
+{
+    "id": "page_4",
+    "title": "Каласы пад сярпом тваім",
+    "image_url": "https://imgproxy.onliner.by/PkJShK2R1XuB9Km4IDBce1arKR_79y9hKTntAVo1ab0/w:170/h:250/z:2/f:jpg/aHR0cHM6Ly9jb250/ZW50Lm9ubGluZXIu/YnkvY2F0YWxvZy9k/ZXZpY2Uvb3JpZ2lu/YWwvZmY5NGZmNzMx/ZDkxNWY2MzQ3Yzli/MDM4ZDhhNjYzY2Mu/anBn",
+    "text_url": "https://raw.githubusercontent.com/The-F-Project/kratkie/refs/heads/main/txt/serp.txt"
+  },
+
+{
+    "id": "page_5",
+    "title": "Сена на асфальце",
+    "image_url": "https://storage.googleapis.com/books_media/covers/sena-na-asfaltse.JPG",
+    "text_url": "https://raw.githubusercontent.com/The-F-Project/kratkie/refs/heads/main/txt/seno.txt"
+  },
+
+{
+    "id": "page_6",
+    "title": "Родныя дзеці",
+    "image_url": "https://profil.adu.by/pluginfile.php/4772/mod_book/chapter/13361/%D0%A1%D1%82%D1%80121.jpg?time=1624773703135",
+    "text_url": "https://raw.githubusercontent.com/The-F-Project/kratkie/refs/heads/main/txt/deti.txt"
+  },
+
+{
+    "id": "page_7",
+    "title": "Дзівак з Ганчарнай вуліцы",
+    "image_url": "https://storage.googleapis.com/books_media/photos/ivan-chygrynau.jpg",
+    "text_url": "https://raw.githubusercontent.com/The-F-Project/kratkie/refs/heads/main/txt/chudak.txt"
+  },
+
+{
+    "id": "page_8",
+    "title": "Сямнаццатай вясной",
+    "image_url": "https://coollib.in/i/13/667313/cover_cl35.webp",
+    "text_url": "https://raw.githubusercontent.com/The-F-Project/kratkie/refs/heads/main/txt/17.txt"
+  },
+
+{
+    "id": "page_9",
+    "title": "Канон Гарынi i Канон мацi",
+    "image_url": "https://www.mastlit.by/gallery_gen/46c8efe2081ffcd468e7556d4e5723c0_fill.png",
+    "text_url": "https://raw.githubusercontent.com/The-F-Project/kratkie/refs/heads/main/txt/canons.txt"
+  },
+
+{
+    "id": "page_10",
+    "title": "Князь Вітаўт",
+    "image_url": "https://posmotrim.by/pics/3d6de9d8d.jpg",
+    "text_url": "https://raw.githubusercontent.com/The-F-Project/kratkie/refs/heads/main/txt/vitovt.txt"
+  }
+]
