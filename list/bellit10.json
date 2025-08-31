@@ -1,0 +1,66 @@
+[
+{
+    "id": "page_1",
+    "title": "Кепска Будзе",
+    "image_url": "https://storage.googleapis.com/books_media/covers/kiepska-budzie-9a7a036f-ff30-420e-acb9-e24c9bd27168.jpg",
+    "text_url": "https://raw.githubusercontent.com/The-F-Project/kratkie/refs/heads/main/txt/kepska.txt"
+  },
+
+{
+    "id": "page_2",
+    "title": "Дуб­-дзядуля",
+    "image_url": "https://profil.adu.by/pluginfile.php/3683/mod_book/chapter/9763/%D1%8196.jpg",
+    "text_url": "https://raw.githubusercontent.com/The-F-Project/kratkie/refs/heads/main/txt/dub_dzed.txt"
+  },
+
+{
+    "id": "page_3",
+    "title": "Раскіданае гняздо",
+    "image_url": "https://upload.wikimedia.org/wikipedia/be-x-old/0/0f/%D0%A0%D0%B0%D1%81%D0%BA%D1%96%D0%B4%D0%B0%D0%BD%D0%B0%D0%B5_%D0%B3%D0%BD%D1%8F%D0%B7%D0%B4%D0%BE_-_%D0%91%D1%80%D1%8D%D1%81%D1%86%D0%BA%D1%96_%D1%82%D1%8D%D0%B0%D1%82%D0%B0%D1%80_%D0%B4%D1%80%D0%B0%D0%BC%D1%8B_-_%D0%B0%D1%84%D1%96%D1%88%D0%B0.jpg",
+    "text_url": "https://raw.githubusercontent.com/The-F-Project/kratkie/refs/heads/main/txt/gnezdo.txt"
+  },
+
+{
+    "id": "page_4",
+    "title": "На ростанях",
+    "image_url": "https://shafa-minsk.by/wp-content/uploads/2023/12/.-%D0%97%D0%B0%D0%B1%D1%8B%D1%82%D1%8B%D1%8F-%D0%BF%D0%B5%D1%81%D0%BD%D1%96-4-2-e1702986501156.jpg",
+    "text_url": "https://raw.githubusercontent.com/The-F-Project/kratkie/refs/heads/main/txt/rosstani.txt"
+  },
+
+{
+    "id": "page_5",
+    "title": "Літоўскі хутарок",
+    "image_url": "https://cdn.litres.ru/pub/c/cover/21105094.jpg",
+    "text_url": "https://raw.githubusercontent.com/The-F-Project/kratkie/refs/heads/main/txt/hutarok.txt"
+  },
+
+{
+    "id": "page_6",
+    "title": "Бондар",
+    "image_url": "https://profil.adu.by/pluginfile.php/3969/mod_book/chapter/10852/%D1%81.166.png.jpg",
+    "text_url": "https://raw.githubusercontent.com/The-F-Project/kratkie/refs/heads/main/txt/bondar.txt"
+  },
+
+{
+    "id": "page_7",
+    "title": "Хто смяецца апошнім",
+    "image_url": "https://s1.livelib.ru/boocover/1000733122/200x305/2e14/boocover.jpg",
+    "text_url": "https://raw.githubusercontent.com/The-F-Project/kratkie/refs/heads/main/txt/smeh.txt"
+  },
+
+
+{
+    "id": "page_8",
+    "title": "Пошукі будучыні",
+    "image_url": "https://www.akademkniga-books.by/upload/iblock/8a7/6bn6176ie0usme6zkx7hcheyviiut9fs.jpg",
+    "text_url": "https://raw.githubusercontent.com/The-F-Project/kratkie/refs/heads/main/txt/divnaya.txt"
+  },
+  
+
+{
+    "id": "page_9",
+    "title": "Людзі на балоце",
+    "image_url": "https://marks.by/image/cache/catalog/%D0%B1%D0%B5%D0%BB%D0%B0%D1%80%D1%83%D1%81%D1%96%D0%BA%D1%96/skmbt_c22422081211510_0001-scaled-e1660573003709-768x1148-768x1148.jpg",
+    "text_url": "https://raw.githubusercontent.com/The-F-Project/kratkie/refs/heads/main/txt/balota.txt"
+  }
+]
