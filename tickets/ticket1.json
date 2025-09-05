@@ -1,6 +1,6 @@
 {
-  "title": "Все идет по плану",
-  "audioUrl": "https://github.com/FaliedDedd/data/releases/download/a/test.mp3",
+  "title": "Древние люди",
+  "audioUrl": "https://github.com/The-F-Project/kratkie/releases/download/v1/ticket1demo.mp3",
   "subtitles": [
     {
       "startTime": 0,
@@ -25,8 +25,8 @@
       "duration": 5000
     },
     {
-      "title": "Основная часть (0:05)",
-      "startTime": 5000,
+      "title": "Основная часть (1:05)",
+      "startTime": 100000,
       "duration": 10000
     },
     {
