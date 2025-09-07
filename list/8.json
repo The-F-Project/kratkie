@@ -1,34 +1,20 @@
 [
     {
     "id": "page_1",
-    "title": "Недоросль",
-    "image_url": "https://imo10.labirint.ru/books/647346/cover.jpg/242-0",
-    "text_url": "https://raw.githubusercontent.com/FaliedDedd/EduCA-Global-Update/refs/heads/main/json/kratkie/texts/9/nedorosl.txt?token=GHSAT0AAAAAADJJXBAQZIAERP4JZJMIW6MW2FHJTFA"
-  },
-
-  {
-    "id": "page_2",
-    "title": "Ласточка",
-    "image_url": "https://imo10.labirint.ru/books/647346/cover.jpg/242-0",
-    "text_url": "https://raw.githubusercontent.com/FaliedDedd/EduCA-Global-Update/refs/heads/main/json/kratkie/texts/9/lastochka.txt?token=GHSAT0AAAAAADJJXBARRFGOBB22YZTFIMR62FHJXJA"
-  },
-
-  {
-    "id": "page_3",
     "title": "Цыганы",
     "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvR-nY8ocgORdXEc1eTvZKpVkk0qs_nC_fVA&s",
     "text_url": "https://raw.githubusercontent.com/The-F-Project/kratkie/refs/heads/main/txt/cygane.txt"
   },
 
 {
-    "id": "page_4",
+    "id": "page_2",
     "title": "Русские Женщины. Княгиня Трубецкая",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Notes_of_the_Fatherland_1872_number_4.JPG",
     "text_url": "https://raw.githubusercontent.com/The-F-Project/kratkie/refs/heads/main/txt/trubetskaya.txt"
   },
 
 {
-    "id": "page_5",
+    "id": "page_3",
     "title": "Ася",
     "image_url": "https://m.media-amazon.com/images/I/91fFtFGuCBL._UF894,1000_QL80_.jpg",
     "text_url": "https://raw.githubusercontent.com/The-F-Project/kratkie/refs/heads/main/txt/asya.txt"
@@ -36,42 +22,42 @@
 
 
 {
-    "id": "page_6",
+    "id": "page_4",
     "title": "Переполох",
     "image_url": "https://knijky.ru/sites/default/files/4mqyt91fsdctyu4zvfp_uq.jpg",
     "text_url": "https://raw.githubusercontent.com/The-F-Project/kratkie/refs/heads/main/txt/perepoloh.txt"
   },
 
 {
-    "id": "page_7",
+    "id": "page_5",
     "title": "Парадокс",
     "image_url": "https://nukadeti.ru/content/images/static/tale400x400/10472_11838.jpg",
     "text_url": "https://raw.githubusercontent.com/The-F-Project/kratkie/refs/heads/main/txt/paradox.txt"
   },
 
 {
-    "id": "page_8",
+    "id": "page_6",
     "title": "Старуха Изергиль",
     "image_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1330797344i/7926455.jpg",
     "text_url": "https://raw.githubusercontent.com/The-F-Project/kratkie/refs/heads/main/txt/staruha_izergil.txt"
   },
 
 {
-    "id": "page_9",
+    "id": "page_7",
     "title": "Судьба Человека",
     "image_url": "https://www.litres.ru/pub/c/cover/19435467.jpg",
     "text_url": "https://raw.githubusercontent.com/The-F-Project/kratkie/refs/heads/main/txt/sudba_cheloveka.txt"
   },
 
 {
-    "id": "page_10",
+    "id": "page_8",
     "title": "Голубое и Зеленое",
     "image_url": "https://nukadeti.ru/content/images/essence/tale/10458/11823.jpg",
     "text_url": "https://raw.githubusercontent.com/The-F-Project/kratkie/refs/heads/main/txt/blue_and_green.txt"
   },
 
 {
-    "id": "page_11",
+    "id": "page_9",
     "title": "Когда в доме одиноко...",
     "image_url": "https://golosknig.com/uploads/topics/preview/00/00/91/94/5c7c4592ed.jpg",
     "text_url": "https://raw.githubusercontent.com/The-F-Project/kratkie/refs/heads/main/txt/v_dome_odinoko.txt"
