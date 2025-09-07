@@ -1,97 +1,83 @@
 [
     {
     "id": "page_1",
-    "title": "Недоросль",
-    "image_url": "https://imo10.labirint.ru/books/647346/cover.jpg/242-0",
-    "text_url": "https://raw.githubusercontent.com/FaliedDedd/EduCA-Global-Update/refs/heads/main/json/kratkie/texts/9/nedorosl.txt?token=GHSAT0AAAAAADJJXBAQZIAERP4JZJMIW6MW2FHJTFA"
-  },
-
-  {
-    "id": "page_2",
-    "title": "Ласточка",
-    "image_url": "https://imo10.labirint.ru/books/647346/cover.jpg/242-0",
-    "text_url": "https://raw.githubusercontent.com/FaliedDedd/EduCA-Global-Update/refs/heads/main/json/kratkie/texts/9/lastochka.txt?token=GHSAT0AAAAAADJJXBARRFGOBB22YZTFIMR62FHJXJA"
-  },
-
-    {
-    "id": "page_3",
-    "title": "Мертвые Душы",
+    "title": "Мертвые Души",
     "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt-t1H8Q4byKL9mUB3zE5lWHWASfeDsjRZ8A&s",
     "text_url": "https://raw.githubusercontent.com/The-F-Project/kratkie/refs/heads/main/txt/dead_souls.txt"
   },
 
 {
-    "id": "page_4",
+    "id": "page_2",
     "title": "Гроза",
     "image_url": "https://cdn.azbooka.ru/cv/w1100/09da80c1-be01-4c38-a507-ba2add1aca36.jpg",
     "text_url": "https://raw.githubusercontent.com/The-F-Project/kratkie/refs/heads/main/txt/groza.txt"
   },
 
 {
-    "id": "page_5",
+    "id": "page_3",
     "title": "Бесприданница",
     "image_url": "https://azbyka.ru/fiction/wp-content/uploads/2020/06/9122a8bd-0ed4-5764-a966-1535f4762e32.jpg",
     "text_url": "https://raw.githubusercontent.com/The-F-Project/kratkie/refs/heads/main/txt/besspredannitsa.txt"
   },
 
 {
-    "id": "page_6",
+    "id": "page_4",
     "title": "Отцы и Дети",
     "image_url": "https://cdn.azbooka.ru/cv/w1100/3a15cade-2970-4f17-b8e8-988c446217e1.jpg",
     "text_url": "https://raw.githubusercontent.com/The-F-Project/kratkie/refs/heads/main/txt/fathers_and_kids.txt"
   },
 
 {
-    "id": "page_7",
+    "id": "page_5",
     "title": "Кому на Руси жить хорошо",
     "image_url": "https://akniga.org/uploads/media/topic/2024/11/30/09/preview/3ce4dd5a1c4fb89b0f60_252x350crop.jpg",
     "text_url": "https://raw.githubusercontent.com/The-F-Project/kratkie/refs/heads/main/txt/komu_zhit_hohrosho.txt"
   },
 
 {
-    "id": "page_8",
+    "id": "page_6",
     "title": "Преступление и Наказание",
     "image_url": "https://s5-goods.ozstatic.by/2000/218/52/1/1052218_0.jpg",
     "text_url": "https://raw.githubusercontent.com/The-F-Project/kratkie/refs/heads/main/txt/prestuplenie_i_nakozanie.txt"
   },
 
 {
-    "id": "page_9",
+    "id": "page_7",
     "title": "Война и Мир",
     "image_url": "https://tolstoy.ru/upload/creativity/fiction/detail/upload/iblock/72e/w-p.jpg",
     "text_url": "https://raw.githubusercontent.com/The-F-Project/kratkie/refs/heads/main/txt/war_and_peace.txt"
   },
 
 {
-    "id": "page_10",
+    "id": "page_8",
     "title": "Человек в футляре",
     "image_url": "https://cdn.azbooka.ru/cv/w1100/2df75b79-867a-4e87-804c-c6c44fa731dd.jpg",
     "text_url": "https://raw.githubusercontent.com/The-F-Project/kratkie/refs/heads/main/txt/chel_v_futlyare.txt"
   },
 
 {
-    "id": "page_11",
+    "id": "page_9",
     "title": "Попрыгунья",
     "image_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1349009158i/16054882.jpg",
     "text_url": "https://raw.githubusercontent.com/The-F-Project/kratkie/refs/heads/main/txt/poprygunia.txt"
   },
 
 {
-    "id": "page_12",
+    "id": "page_10",
     "title": "Дядя Ваня",
     "image_url": "https://cdn.kobo.com/book-images/09bdb658-2f55-44b2-9858-744ded5aa350/1200/1200/False/8t39P2zQWDKEdyYbNAzY3A.jpg",
     "text_url": "https://raw.githubusercontent.com/The-F-Project/kratkie/refs/heads/main/txt/dyadya_vanya.txt"
   },
 
 {
-    "id": "page_13",
+    "id": "page_11",
     "title": "Вишневый Сад",
     "image_url": "https://cdn.azbooka.ru/cv/w1100/b062367d-98a3-4214-adce-f851f84b2d5f.jpg",
     "text_url": "https://raw.githubusercontent.com/The-F-Project/kratkie/refs/heads/main/txt/cherry_garden.txt"
   },
 
 {
-    "id": "page_14",
+    "id": "page_12",
     "title": "Гобсек",
     "image_url": "https://media.oki.by/img/catalog/178000/178929_626273.jpg",
     "text_url": "https://raw.githubusercontent.com/The-F-Project/kratkie/refs/heads/main/txt/gobsek.txt"
