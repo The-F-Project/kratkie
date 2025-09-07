@@ -1,0 +1,38 @@
+{
+  "title": "Франциск Скорина",
+  "audioUrl": "https://github.com/The-F-Project/kratkie/releases/download/v1/ticket1demo.mp3",
+  "subtitles": [
+    {
+      "startTime": 0,
+      "endTime": 15000,
+      "text": "Приветствие и введение в тему"
+    },
+    {
+      "startTime": 5000,
+      "endTime": 15000,
+      "text": "Основная часть лекции с важной информацией"
+    },
+    {
+      "startTime": 15000,
+      "endTime": 25000,
+      "text": "Практические примеры и кейсы"
+    }
+  ],
+  "chapters": [
+    {
+      "title": "Введение (0:00)",
+      "startTime": 0,
+      "duration": 5000
+    },
+    {
+      "title": "Основная часть (1:05)",
+      "startTime": 100000,
+      "duration": 10000
+    },
+    {
+      "title": "Практика (0:15)",
+      "startTime": 15000,
+      "duration": 10000
+    }
+  ]
+}
