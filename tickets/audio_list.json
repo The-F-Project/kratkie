@@ -1,0 +1,25 @@
+{
+  "items": [
+    {
+      "id": "1",
+      "title": "Древние люди",
+      "jsonUrl": "https://raw.githubusercontent.com/The-F-Project/kratkie/main/tickets/ticket1.json",
+      "imageUrl": "https://github.com/The-F-Project/kratkie/raw/main/images/ticket1.jpg",
+      "duration": "02:30"
+    },
+    {
+      "id": "2", 
+      "title": "Средневековье",
+      "jsonUrl": "https://raw.githubusercontent.com/The-F-Project/kratkie/main/tickets/ticket2.json",
+      "imageUrl": "https://github.com/The-F-Project/kratkie/raw/main/images/ticket2.jpg",
+      "duration": "03:15"
+    },
+    {
+      "id": "3",
+      "title": "Ренессанс",
+      "jsonUrl": "https://raw.githubusercontent.com/The-F-Project/kratkie/main/tickets/ticket3.json",
+      "imageUrl": "https://github.com/The-F-Project/kratkie/raw/main/images/ticket3.jpg",
+      "duration": "04:20"
+    }
+  ]
+}
