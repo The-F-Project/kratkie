@@ -6,6 +6,15 @@
       "jsonUrl": "https://raw.githubusercontent.com/The-F-Project/kratkie/main/tickets/ticket1.json",
       "imageUrl": "https://github.com/The-F-Project/kratkie/raw/main/images/ticket1.jpg",
       "duration": "06:48"
-    }
+    },
+    
+
+     {
+      "id": "2",
+      "title": "Полоцкое и Туровское княжество",
+      "jsonUrl": "https://raw.githubusercontent.com/The-F-Project/kratkie/refs/heads/main/tickets/ticket2.json",
+      "imageUrl": "https://github.com/The-F-Project/kratkie/raw/main/images/ticket1.jpg",
+      "duration": "05:12"
+    },
   ]
 }
