@@ -24,14 +24,14 @@
     "id": "page_4",
     "title": "Двенадцать месяцев",
     "image_url": "https://nukadeti.ru/content/images/static/tale300x300/1875_150.jpg",
-    "text_url": "https://github.com/The-F-Project/kratkie/blob/main/txt/dvenad_mes.txt"
+    "text_url": "https://raw.githubusercontent.com/The-F-Project/kratkie/refs/heads/main/txt/dvenad_mes.txt"
   },
 
 {
     "id": "page_5",
     "title": "Крестьянские дети",
     "image_url": "https://www.prostudenta.ru/wp-content/auploads/965487/fullsize.jpg",
-    "text_url": "https://github.com/The-F-Project/kratkie/blob/main/txt/krest_deti.txt"
+    "text_url": "https://raw.githubusercontent.com/The-F-Project/kratkie/refs/heads/main/txt/krest_deti.txt"
   },
 
 {
